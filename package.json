@@ -1,0 +1,10 @@
+{
+  "name": "merkle-airdrop-distributor",
+  "version": "1.0.0",
+  "description": "Efficient Merkle-tree based token airdrop system",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "author": "Alex000115",
+  "license": "MIT"
+}
